@@ -1,0 +1,23 @@
+{
+  "name": "pow-api-service",
+  "version": "0.0.1b",
+  "description": "Easily call a RESTful API using Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RaphSfeir/api_service.git"
+  },
+  "author": "Potion of Wit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaphSfeir/api_service/issues"
+  },
+  "homepage": "https://github.com/RaphSfeir/api_service#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "redux-api-middleware": "^1.0.3"
+  }
+}
